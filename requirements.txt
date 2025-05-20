@@ -1,0 +1,8 @@
+fastapi
+pygithub
+httpx
+uvicorn
+python-dotenv
+pytelegrambotapi
+huggingface-hub
+openai
